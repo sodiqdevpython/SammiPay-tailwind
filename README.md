@@ -1,3 +1,19 @@
+DEMO: 
+![image](https://github.com/user-attachments/assets/08416a0c-bcd7-45fe-b8c3-5a9ca1978747)
+![image](https://github.com/user-attachments/assets/51ce8335-8853-4b3e-a117-7c22cf4f030e)
+![image](https://github.com/user-attachments/assets/df889c02-785a-4c9c-8f19-72a6cb73a87b)
+![image](https://github.com/user-attachments/assets/d99e99a2-b8b1-409a-bfc8-9753b938364b)
+![image](https://github.com/user-attachments/assets/094f4773-a8cd-4b0b-93f9-98be2865c72d)
+![image](https://github.com/user-attachments/assets/4f18b5fe-eea9-4870-8079-f172ca83705e)
+![image](https://github.com/user-attachments/assets/d1504269-cd05-4045-bd21-99328d369fb1)
+![image](https://github.com/user-attachments/assets/92ff45c0-0883-48fc-bdb7-1104c5df69ec)
+![image](https://github.com/user-attachments/assets/941f954e-b630-4be8-bf0e-3b06bf50fa86)
+
+
+Deployed: https://sammipay.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
